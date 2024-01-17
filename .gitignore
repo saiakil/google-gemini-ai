@@ -1,0 +1,10 @@
+.idea/
+reports/
+target/
+config/
+*.log
+LICENSE
+gradle/
+*.iml
+/.idea/
+rerun.txt
